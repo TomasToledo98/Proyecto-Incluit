@@ -1,1 +1,3 @@
-# Proyecto-Incluit
+#### ✅ Bien 
+
+- Algo muy importante que de hecho creo me faltó aclarar durante las clases: La carpeta `node_modules/` nunca debe agregarse al repo. Lo que se suele hacer, es crear un archivo `.gitignore` en donde se especifica que queremos ignorar esa carpeta siempre. Ya que suele ser muy pesada, y ademas las dependencias se instalan segun la plataforma de cada desarrollador. Entonces si una persona con linux sube su repositorio, quizas una persona con windows o mac tenga problemas al intentar usar dependencias no compatibles. 
